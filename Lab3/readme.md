@@ -24,7 +24,7 @@ The Python pseudocode does not involve any code in it. The Python pseudocode mus
 The difference between the two is a compiled language is a programming language whose implementations are typically compilers and not interpreters. An interpreted language is a programming language whose implementations execute instructions directly and freely.
 ## Career Exploration
 ### Handshake
-This was a fun excerise it opened my eyes to many different possibilities, I was mos surprised by the management and data engineer positions.
+This was a fun excerise it opened my eyes to many different possibilities, I was most surprised by the management and data engineer positions.
 ### Bureau of Labor Statistics
 I found that more postions within IT/CS make a very comfortable living as well as that there is substantial growth for these occupations.
 ### Certifications
