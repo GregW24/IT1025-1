@@ -16,7 +16,6 @@ The sole purpose of ERP software is to assist in bringing a corporation together
 A commom problem solved by virtualization is a lack of server back up. Virtualization can make for an easy and a simplistc way to back up servers.
 ### Role of Hypervisor
 Hypervisors in virtualization are used to provide an abstraction layer to separate the virtual machines from the system hardware.
-
 ## Python
 ### Pseudo-Code Nature of Python
 The Python pseudocode does not involve any code in it. The Python pseudocode must be a very close representation of the algorithmic logic.
@@ -39,3 +38,5 @@ I would most likely beneift from a cybersecurity club because of its relevance t
 ## Conclusion
 In today’s lab I went over many different terms that tie into programming and coding. I went further on into the lab to define various softwares as well.
 Most importantly I navigated through a couple different sites that gave me a better understanding of what could be doing to further benefit myself such as career paths and club. I also find more out about my field of study with added details that had to do with certain certifcates. I thoroughly enjoyed this lab and learned much from it.
+<img width="1440" alt="python1" src="https://user-images.githubusercontent.com/91444656/138574115-161059b2-ccb8-41f0-a922-213a414f3c32.png">
+<img width="1440" alt="python2" src="https://user-images.githubusercontent.com/91444656/138574126-eac6cc7a-26e5-4ef5-9803-f1393fc1676b.png">
