@@ -24,3 +24,7 @@ A function can return data as a result.
 ## Conclusion
 
 In this lesson, I was able to learn a lot about Python IDLE. I also enjoyed making my own codes and learning the different variations of them. I also enjoyed discovering the differences between Raster and Vector graphics. Lastly, throughout this lab I really enjoyed everything I was able to learn. 
+![Untitled](https://user-images.githubusercontent.com/91444656/140585809-2e7f5d7c-c803-4053-8c38-3081773fe666.jpeg)
+![Untitled](https://user-images.githubusercontent.com/91444656/140585817-06707371-6518-4121-8825-95d448659212.png)
+<img width="1440" alt="Screen Shot 2021-11-05 at 5 54 19 PM" src="https://user-images.githubusercontent.com/91444656/140585838-4ee88793-4f87-47cc-a929-d5addfb8625b.png">
+<img width="1440" alt="Screen Shot 2021-11-05 at 5 58 03 PM" src="https://user-images.githubusercontent.com/91444656/140585930-675fb342-d6ae-445a-8ecc-1a6ebc2c8b02.png">
